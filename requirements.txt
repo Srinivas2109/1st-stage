@@ -1,0 +1,9 @@
+flask
+torch
+transformers
+bitsandbytes
+python-dotenv
+
+## source gemma-env/bin/activate
+## On Windows use `gemma-env\Scripts\activate`
+## pip install -r requirements.txt
